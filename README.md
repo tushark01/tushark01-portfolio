@@ -1,8 +1,8 @@
-# Personal-Website
-- Created a personal Web site to show my skills, interest, and experienced.
+# Portfolio-Website
+- Created a portfolio website to showcase my skills, interest, projects, and experience.
 
 ## IDE 
-- Visual Studio Code
+- VS Code
 
 ## Languages
 - HTML
@@ -17,14 +17,14 @@
 - App Service
 
 ## Screenshot-
-![New File - Brave 27-06-2022 19_02_00](https://user-images.githubusercontent.com/91140694/175954169-7bcf9f00-f9d7-4b83-b1e6-e23d18e9e50e.png)
-![New File - Brave 27-06-2022 19_02_10](https://user-images.githubusercontent.com/91140694/175954188-4cdeadec-fbfe-4446-a892-3e3504660b2e.png)
-![New File - Brave 27-06-2022 19_02_17](https://user-images.githubusercontent.com/91140694/175954192-c8c78976-a0c8-4509-8520-84717f91dc5f.png)
-![New File - Brave 27-06-2022 19_02_24](https://user-images.githubusercontent.com/91140694/175954197-503b8e3a-7320-4747-b0c6-d33e5464e7bf.png)
-![New File - Brave 27-06-2022 19_02_31](https://user-images.githubusercontent.com/91140694/175954202-7f42bdbf-04f2-44b7-8167-d3c8a8501053.png)
 
-## Demo Video-
-https://user-images.githubusercontent.com/91140694/175955067-9fefebb5-d87d-4001-b56f-ef69d4fc3c81.mp4
+![1](https://user-images.githubusercontent.com/70583158/178140029-35d592eb-ffa0-4e12-8ab4-c827492c8e92.png)
+![2](https://user-images.githubusercontent.com/70583158/178140037-a7fb04a0-df9d-409c-9c25-42809738ec15.png)
+![3](https://user-images.githubusercontent.com/70583158/178140041-533c39da-cddd-48f2-8a10-3fd85e3b07a7.png)
+![4](https://user-images.githubusercontent.com/70583158/178140042-f838c449-0edd-426b-bfb6-6d37456b89b1.png)
+![5](https://user-images.githubusercontent.com/70583158/178140057-19350e40-adb2-4807-9c43-ef1fe6e2f9f3.png)
+![6](https://user-images.githubusercontent.com/70583158/178140062-7ca113f6-2ef9-4f7c-acb6-b9c9565c5b38.png)
+![7](https://user-images.githubusercontent.com/70583158/178140066-de9d964a-76c9-4d51-bcd3-3d530ba7e672.png)
 
 ## URL-
-https://nikhilesh.z13.web.core.windows.net/
+https://tushark01.github.io/
