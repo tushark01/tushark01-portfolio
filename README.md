@@ -26,5 +26,5 @@
 ![6](https://user-images.githubusercontent.com/70583158/178140062-7ca113f6-2ef9-4f7c-acb6-b9c9565c5b38.png)
 ![7](https://user-images.githubusercontent.com/70583158/178140066-de9d964a-76c9-4d51-bcd3-3d530ba7e672.png)
 
-## URL-
-https://tushark01.github.io/
+## URL:
+https://nice-hill-063533610.1.azurestaticapps.net/
